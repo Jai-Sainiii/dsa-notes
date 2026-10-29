@@ -8,11 +8,9 @@
 
 | # | Approach | Time | Space |
 |---|---|---|---|
-| 1 | Brute force | o(n) | o(n) |
+| 1 | Optimal | o(n) | o(n) |
 
-### 1. Brute force
-
-Falana dimkhana
+### 1. Optimal
 
 **Time:** o(n) · **Space:** o(n)
 
@@ -27,11 +25,11 @@ Falana dimkhana
     }
 ```
 
-Source: [`1-brute-force.js`](./1-brute-force.js)
+Source: [`1-optimal.js`](./1-optimal.js)
 
 ## Notes
 
-did math
+Did
 
 ---
 
