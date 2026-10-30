@@ -2,13 +2,14 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**1** problem so far.
+**2** problems so far.
 
-## LeetCode (1)
+## LeetCode (2)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [open](./LeetCode/0001-two-sum) |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [open](./LeetCode/0199-binary-tree-right-side-view) |
 
 ---
 
