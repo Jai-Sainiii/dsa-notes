@@ -8,14 +8,14 @@
 
 | # | Approach | Time | Space |
 |---|---|---|---|
-| 1 | Optimal | O(n) | O(n) to store the answer & recursive stack |
+| 1 | Optimal | O(H) : H = height of tree | O(n) to store the answer & recursive stack |
 | 2 | optimal my approach ! | O(n) | O(n) |
 
 ### 1. Optimal
 
 The key is to do a reverse pre-order traversal, when a level is first time reached then the value is on the right view...
 
-**Time:** O(n) · **Space:** O(n) to store the answer & recursive stack
+**Time:** O(H) : H = height of tree · **Space:** O(n) to store the answer & recursive stack
 
 ```javascript
     let ans = [];
