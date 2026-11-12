@@ -15,7 +15,7 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
-| — | [Lowest Common Ancestor in BT](https://takeuforward.org/practice/dsa/lca-in-bt) | — | [open](./Striver-s-A-Z-DSA-Sheet/lowest-common-ancestor-in-bt) |
+| — | [Lowest Common Ancestor in BT](https://takeuforward.org/practice/dsa/lca-in-bt) | Medium | [open](./Striver-s-A-Z-DSA-Sheet/lowest-common-ancestor-in-bt) |
 
 ---
 

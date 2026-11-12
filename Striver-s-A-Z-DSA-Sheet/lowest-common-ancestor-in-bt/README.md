@@ -1,6 +1,6 @@
 # Lowest Common Ancestor in BT
 
-**Platform:** Striver's A-Z DSA Sheet · **Problem:** [takeuforward.org/practice/dsa/lca-in-bt](https://takeuforward.org/practice/dsa/lca-in-bt)
+**Platform:** Striver's A-Z DSA Sheet · **Difficulty:** Medium · **Problem:** [takeuforward.org/practice/dsa/lca-in-bt](https://takeuforward.org/practice/dsa/lca-in-bt)
 
 **Tags:** `Binary Tree`
 
