@@ -4,18 +4,13 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 
 **3** problems so far.
 
-## LeetCode (2)
+## LeetCode (3)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [open](./LeetCode/0001-two-sum) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [open](./LeetCode/0199-binary-tree-right-side-view) |
-
-## Striver's A-Z DSA Sheet (1)
-
-| # | Problem | Difficulty | Notes |
-|---|---|---|---|
-| — | [Lowest Common Ancestor in BT](https://takeuforward.org/practice/dsa/lca-in-bt) | Medium | [open](./Striver-s-A-Z-DSA-Sheet/lowest-common-ancestor-in-bt) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [open](./LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 
 ---
 
