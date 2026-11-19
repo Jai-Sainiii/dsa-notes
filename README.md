@@ -2,7 +2,7 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**6** problems so far.
+**7** problems so far.
 
 ## LeetCode (6)
 
@@ -14,6 +14,12 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [open](./LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | [open](./LeetCode/0662-maximum-width-of-binary-tree) |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [open](./LeetCode/0863-all-nodes-distance-k-in-binary-tree) |
+
+## takeUforward (1)
+
+| # | Problem | Difficulty | Notes |
+|---|---|---|---|
+| — | [Minimum time taken to burn the BT from a given Node](https://takeuforward.org/practice/dsa/minimum-time-taken-to-burn-the-bt-from-a-given-node) | Pro | [open](./takeUforward/minimum-time-taken-to-burn-the-bt-from-a-given-node) |
 
 ---
 
