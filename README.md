@@ -2,13 +2,14 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**7** problems so far.
+**8** problems so far.
 
-## LeetCode (6)
+## LeetCode (7)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [open](./LeetCode/0001-two-sum) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [open](./LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [open](./LeetCode/0114-flatten-binary-tree-to-linked-list) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [open](./LeetCode/0199-binary-tree-right-side-view) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [open](./LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
