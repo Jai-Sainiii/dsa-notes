@@ -25,7 +25,7 @@
         parentCheck();
 
         let que = [];
-        let burned = new Set;
+        let burned = new Set();
         que.push(start);
         burned.add(start);
         let dist = 0;

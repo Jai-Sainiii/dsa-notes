@@ -61,7 +61,7 @@ In 4th second it burns node 5.
 
 **Time:** O(n) · **Space:** O(n)
 
-```cpp
+```javascript
         if(!root) return 0;
 
         let parentMap = new Map();
@@ -89,7 +89,7 @@ In 4th second it burns node 5.
         parentCheck();
 
         let que = [];
-        let burned = new Set;
+        let burned = new Set();
         que.push(start);
         burned.add(start);
         let dist = 0;
@@ -125,7 +125,7 @@ In 4th second it burns node 5.
         return dist;
 ```
 
-Source: [`1-optimal.cpp`](./1-optimal.cpp)
+Source: [`1-optimal.js`](./1-optimal.js)
 
 ---
 
