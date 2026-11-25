@@ -79,7 +79,7 @@ The approach is simple first go the left's right most then link it to the curr (
 
 **Time:** O(n) · **Space:** O(1)
 
-```cpp
+```javascript
     let curr = root;
     while(curr){
         if(curr.left){
@@ -94,7 +94,7 @@ The approach is simple first go the left's right most then link it to the curr (
     }
 ```
 
-Source: [`2-optimal.cpp`](./2-optimal.cpp)
+Source: [`2-optimal.js`](./2-optimal.js)
 
 ### 3. Better version with +stack space
 
