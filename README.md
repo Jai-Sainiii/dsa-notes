@@ -2,9 +2,9 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**11** problems so far.
+**12** problems so far.
 
-## LeetCode (10)
+## LeetCode (11)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [open](./LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [open](./LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [open](./LeetCode/0114-flatten-binary-tree-to-linked-list) |
+| 144 | [Morris Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [open](./LeetCode/0144-morris-preorder-traversal) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [open](./LeetCode/0199-binary-tree-right-side-view) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [open](./LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [open](./LeetCode/0297-serialize-and-deserialize-binary-tree) |
