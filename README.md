@@ -2,9 +2,9 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**12** problems so far.
+**13** problems so far.
 
-## LeetCode (11)
+## LeetCode (12)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [open](./LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [open](./LeetCode/0297-serialize-and-deserialize-binary-tree) |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | [open](./LeetCode/0662-maximum-width-of-binary-tree) |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [open](./LeetCode/0700-search-in-a-binary-search-tree) |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [open](./LeetCode/0863-all-nodes-distance-k-in-binary-tree) |
 
 ## takeUforward (1)
