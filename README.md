@@ -2,7 +2,7 @@
 
 Problems solved by **Jai-Sainiii**, each with brute force → better → optimal approaches.
 
-**13** problems so far.
+**14** problems so far.
 
 ## LeetCode (12)
 
@@ -21,10 +21,11 @@ Problems solved by **Jai-Sainiii**, each with brute force → better → optimal
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [open](./LeetCode/0700-search-in-a-binary-search-tree) |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [open](./LeetCode/0863-all-nodes-distance-k-in-binary-tree) |
 
-## takeUforward (1)
+## takeUforward (2)
 
 | # | Problem | Difficulty | Notes |
 |---|---|---|---|
+| — | [Floor and Ceil in a BST](https://takeuforward.org/practice/dsa/floor-and-ceil-in-a-bst) | Core | [open](./takeUforward/floor-and-ceil-in-a-bst) |
 | — | [Minimum time taken to burn the BT from a given Node](https://takeuforward.org/practice/dsa/minimum-time-taken-to-burn-the-bt-from-a-given-node) | Pro | [open](./takeUforward/minimum-time-taken-to-burn-the-bt-from-a-given-node) |
 
 ---
